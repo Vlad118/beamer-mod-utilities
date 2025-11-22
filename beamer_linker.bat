@@ -1,5 +1,5 @@
 @echo off
-set source=D:\Games\BeamNG.drive\BeamNG.driveMods\0.32\mods
+set source=D:\Games\BeamNG.drive\BeamNG.driveMods\current\mods
 set target=D:\Games\BeamNG.drive\KissMP Server\mods
 
 for %%f in (%source%\*.zip) do (
